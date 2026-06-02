@@ -1,0 +1,271 @@
+body {
+    font-family: "Roboto";
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #1F2937;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 530px;
+}
+
+.box1 {
+    display: block;
+    color: #F9FAF8;
+    font-size: 24px;
+    padding-top: 20px;
+    padding-left: 5px;
+    border-top: 10px;
+    margin-inline-start: 200px;
+    margin-inline-end: 1075px;  
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    padding-top: 15px;
+    margin-top: -35px;
+    margin-left: 790px;
+    margin-right: 200px;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.box2 {
+    display: block;
+    color: #F9FAF8;
+    font-size: 48px;
+    padding: 5px;
+    margin-inline-start: 200px;
+    margin-inline-end: 800px;
+    margin-top: 110px;
+}
+
+.box3 {
+    display: block;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 5px;
+    margin-inline-start: 200px;
+    margin-inline-end: 800px;
+}
+
+.signup {
+    display: block;
+    color: white;
+    background-color: #3882F6;
+    font-weight: bold;
+    height: 40px;
+    width: 130px;
+    padding: 5px;
+    margin-inline-start: 200px;
+    border: 2px solid #1F2937;
+    border-radius: 10px;
+}
+
+.mainImage {
+    display: block;
+    height: 300px;
+    margin-top: -250px;
+    margin-inline-start: 690px;
+    border: 5px solid black;
+}
+
+.container2 {
+    background-color: white;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 440px;
+    border: 5px solid white;
+}
+
+.srinfo {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin: 40px;
+}
+
+.springImage {
+    display: inline;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 125px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.summerImage {
+    display: inline;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.autumnImage {
+    display: inline;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.winterImage {
+    display: inline;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.text1 {
+    display: block;
+    color: gray;
+    margin-inline-start: 125px;
+    margin-inline-end: 1028px;
+    padding: 5px;
+}
+
+.text2 {
+    display: block;
+    color: gray;
+    margin-top: -47px;
+    margin-inline-start: 425px;
+    margin-inline-end: 728px;
+    padding: 5px;
+}
+
+.text3 {
+    display: block;
+    color: gray;
+    margin-top: -47px;
+    margin-inline-start: 725px;
+    margin-inline-end: 428px;
+    padding: 5px;
+}
+
+.text4 {
+    display: block;
+    color: gray;
+    margin-top: -47px;
+    margin-inline-start: 1025px;
+    margin-inline-end: 128px;
+    padding: 5px;
+}
+
+.container3 {
+    display: block;
+    background-color: #E5E7EB;
+    width: 1440px;
+    height: 490px;
+    border: 5px solid #E5E7EB;
+}
+
+.inspiringQuote1 {
+    font-size: 36px;
+    font-style: italic;
+    padding: 5px;
+    margin-top: 80px;
+    margin-inline-start: 420px;
+    margin-inline-end: 428px;
+}
+
+.name1 {
+    font-size: 20px;
+    font-weight: 900;
+    margin-inline-start: 800px;
+    margin-inline-end: 428px;
+    pad: 5px;
+}
+
+.inspiringQuote2 {
+    font-size: 36px;
+    font-style: italic;
+    padding: 5px;
+    margin-top: 40px;
+    margin-inline-start: 420px;
+    margin-inline-end: 428px;
+}
+
+.name2 {
+    font-size: 20px;
+    font-weight: 900;
+    margin-inline-start: 800px;
+    margin-inline-end: 428px;
+    pad: 5px;
+}
+
+.container4 {
+    display: block;
+    background-color: white;
+    width: 1440px;
+    height: 330px;
+    border: 5px solid white;
+}
+
+.blueBox {
+    width: 1040px;
+    height: 150px;
+    background-color: #3882F6;
+    margin-top: 90px;
+    margin-left: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.callToAction {
+    font-size: 25px;
+    font-weight: 900;
+    color: white;
+    margin-top: 35px;
+    margin-left: 100px;
+    margin-right: 650px;
+}
+
+.productSentence {
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+    margin-right: 400px;
+}
+
+.callToActionButton {
+    display: block;
+    color: white;
+    background-color: #3882F6;
+    height: 40px;
+    width: 130px;
+    padding: 5px;
+    margin-top: -50px;
+    margin-left: 800px;
+    margin-right: 100px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.container5 {
+    background-color: #1F2937;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 80px;
+    border: 5px solid #1F2937;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+}
